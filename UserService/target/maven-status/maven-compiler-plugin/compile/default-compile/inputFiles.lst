@@ -1,0 +1,14 @@
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/controller/exception/GlobalControllerExceptionHandler.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/controller/exception/RecordNotFoundException.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/dao/impl/UserDAOImpl.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/entity/UserContext.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/entity/UserPreferences.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/controller/UserController.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/controller/exception/ServiceException.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/controller/BaseRestController.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/dao/UserDAO.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/entity/User.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/service/impl/UserServiceImpl.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/util/DatabaseUtil.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/Application.java
+/Users/sambit/Documents/workspace-sts/cmpe282/UserService/src/main/java/com/sjsu/cmpe282/service/UserService.java
